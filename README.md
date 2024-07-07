@@ -12,8 +12,8 @@ First view when the application starts.<br/><br/>
 
 
 <p float="left">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/1.png" width="250" hspace="10">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/2.png" width="500" hspace="10">
+<img src="imgs/1.png" width="250" hspace="10">
+<img src="imgs/2.png" width="500" hspace="10">
 </p>
 
 
@@ -23,8 +23,8 @@ The location will be added to the list once the user clicks ADD button.<br/><br/
 
 
 <p float="left">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/3.png" width="250" hspace="10">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/4.png" width="500" hspace="10">
+<img src="imgs/3.png" width="250" hspace="10">
+<img src="imgs/4.png" width="500" hspace="10">
 </p>
 
 
@@ -40,19 +40,19 @@ It show a map. The map can be zoomed in and out and panned.
 When the user clicks the GO button on the main view, it displays a line between the current location and the location that the user selected.<br/><br/>
 
 
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/5.png" width="250" hspace="10">
+<img src="imgs/5.png" width="250" hspace="10">
 
 
 <br/><br/>The user can get the distance from the current location to the selected location by clicking the GET DISTANCE button.<br/><br/>
 
 
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/6.png" width="250" hspace="10">
+<img src="imgs/6.png" width="250" hspace="10">
 
 
 <br/><br/>The map and distance are displayed next to each other with landscape layout.<br/><br/>
 
 
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/7.png" width="500" hspace="10">
+<img src="imgs/7.png" width="500" hspace="10">
 
 
 <br/><br/>The destination point on the map can be dragged to different position.
@@ -60,9 +60,9 @@ The application will calculate the updated distination when the user click the G
 
 
 <p float="left">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/8.png" width="250" hspace="10">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/9.png" width="250" hspace="10">
-<img src="https://github.com/rf1112/Portfolio/blob/main/Android_Map_App/imgs/10.png" width="500" hspace="10">
+<img src="imgs/8.png" width="250" hspace="10">
+<img src="imgs/9.png" width="250" hspace="10">
+<img src="imgs/10.png" width="500" hspace="10">
 </p>
 
 
